@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋 What's up?Hey there👋 I'm Kamlesh Rathod 💻!</h2>
+<h2 align="center">Hey there👋 I'm Kamlesh Rathod 💻!</h2>
 
 ###
 
